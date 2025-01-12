@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Induru sasmitha</h1>
 <h3 align="center">DevOps enthusiast with a focus on System Engineering and Cloud</h3>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Network-Security**
 
 - 📫 How to reach me **indduru@gmail.com**
 
