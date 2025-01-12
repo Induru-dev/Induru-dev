@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Induru sasmitha</h1>
-<h3 align="center">DevOps enthusiast with a focus on System Engineering and Cloud</h3>
+<h3 align="center">Network Engineer with a focus on Cybersecurity and Cloud Technologies</h3>
 
 - 🌱 I’m currently learning **Network-Security**
 
